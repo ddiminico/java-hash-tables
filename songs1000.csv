@@ -1,0 +1,1001 @@
+id,titol,artista,genere,any,durada_segons,popularitat
+1,Bohemian Rhapsody,Queen,Rock,1975,354,95
+2,Imagine,John Lennon,Rock,1971,183,93
+3,Crystal Fortress,Albert Snow,Pop,1985,252,68
+4,Ancient Symphony,The Iron Wolves,Rock,1989,347,76
+5,The Pale Dawn,Jordi Cross,Hip-Hop,1997,256,62
+6,Under the Horizon,Rosa Puig,R&B,2008,219,66
+7,Mirror of Sun,Quinn Snow,Country,1973,354,66
+8,Southern Dawn,Sofia Estrella,Pop,1968,162,49
+9,The Fragile Star,Street Poets,Hip-Hop,1988,299,28
+10,The Silver Compass,Kai Torres,Indie,2003,231,55
+11,Starlit Fire,MC Blaze,Hip-Hop,1994,188,34
+12,Beneath the Star,Martina Green,R&B,2011,335,84
+13,Swift Wave,Dakota Silver,Country,2023,150,61
+14,Within the Requiem,Martina Silver,Reggaeton,2007,196,60
+15,The Crystal Rhapsody,Sara Torres,Classical,1992,295,51
+16,The Southern Phoenix,Morgan Cruz,Hip-Hop,1992,296,25
+17,Dusty Whisper,Quinn Swift,Jazz,1995,300,44
+18,Through the Anthem,Oscar Costa,Jazz,1965,287,5
+19,Through the Valley,Leo Sun,Hip-Hop,1989,242,52
+20,Toward the Night,Oriol Wild,Jazz,2003,237,40
+21,Behind the Overture,The Wanderers,Rock,2021,208,19
+22,Distant Compass,Alex True,Indie,2023,181,33
+23,Journey of Nocturne,Neon Pulse,Electronic,2008,341,60
+24,Copper Lullaby,The Ember Kings,Rock,1971,284,50
+25,Around the Echo,Emma Lane,Pop,1988,349,35
+26,Echo of Wind,Silver Lining,Pop,2011,318,84
+27,The Starlit Flame,Dakota Moon,Reggaeton,2013,160,26
+28,Mystic Overture,Arlet Oak,Reggaeton,2000,246,88
+29,Without the Prelude,Sergi Pons,Classical,1977,412,55
+30,The Neon Anthem,Coral Reef,Indie,1982,198,100
+31,Against the Serenade,Phoenix Fox,Pop,1976,238,66
+32,Frozen Twilight,Dakota Pine,Classical,2015,412,44
+33,Under the Moon,Cloud Nine,R&B,2014,315,33
+34,Twilight of Mirror,Zion Cole,Electronic,2009,341,99
+35,Bridge of Silence,Diana Snow,Indie,2011,332,44
+36,The Deep Tempest,Dakota Vidal,Jazz,2017,228,100
+37,Groove of Tempest,Midnight Jazz Club,Jazz,1980,248,76
+38,Along the Night,The Rust Belt,Rock,2006,328,48
+39,The Gentle Door,Martina Black,Classical,1973,329,20
+40,The Cold Horizon,Stellar Groove,R&B,1998,198,72
+41,Silent Phoenix,Anna Roca,Jazz,1977,330,85
+42,Under the Bridge,Milo Lake,Indie,2012,166,41
+43,Within the Rain,Parker Young,Hip-Hop,1991,204,92
+44,The Crystal Moon,Luna Reed,Hip-Hop,2004,203,63
+45,The Ruby Groove,DJ Nexus,Electronic,2014,230,76
+46,The Quiet Journey,Sunset Boulevard,Indie,1984,268,26
+47,Southern Tempest,Velvet Dawn,Pop,2016,183,27
+48,Rising Groove,Fresh Coast,Hip-Hop,2014,211,59
+49,Wind of Labyrinth,Lluis Snow,Rock,1981,299,69
+50,Across the Dust,Elise Rain,Reggaeton,2016,166,43
+51,Lighthouse of Sonata,Clara Cruz,Hip-Hop,2021,185,66
+52,Night of Dreams,Street Poets,Hip-Hop,2023,271,79
+53,Electric Mirror,Vera Wade,Reggaeton,1995,195,58
+54,Without the Valley,The Daydreamers,Indie,1968,211,44
+55,Crystal Castle,River East,Classical,2014,371,47
+56,Beneath the Sky,Alex White,Hip-Hop,1992,214,39
+57,The Deep Ballad,Elena Mas,Indie,1996,280,37
+58,Western Moon,Joan Snow,Reggaeton,1996,246,56
+59,The Starlit Silence,Marc Day,Rock,1967,283,41
+60,Silence of Fortress,The Glass Orchestra,Classical,2011,209,46
+61,Overture of Sonata,Elise Fox,Classical,1987,284,37
+62,The Silent Sky,Nashville Hearts,Country,2003,261,100
+63,The Endless Oasis,Joan Hawk,Jazz,1971,286,19
+64,Sonata of Crown,Voltage,Rock,1986,305,63
+65,Echo of Melody,Sofia Estrella,Pop,2009,337,93
+66,The Western Symphony,Blue Note Trio,Jazz,1986,351,14
+67,The Cold Storm,Alex Nash,Classical,1968,372,75
+68,Tempest of Fortress,Morning Dew,Folk,2000,243,55
+69,The Wild Heart,Laia Torres,Pop,1992,175,57
+70,Nocturne of Twilight,The Ember Kings,Rock,2020,198,78
+71,The Tender Twilight,Autumn Leaves Quartet,Jazz,1989,302,31
+72,Hidden Anthem,Elise Torres,Country,1989,192,52
+73,Thunder of Rhapsody,Oscar Rain,Rock,1969,274,47
+74,Crown of Bridge,Emma Moon,Rock,2020,202,40
+75,Between the Wave,Max Puig,R&B,1968,341,91
+76,The Distant Overture,Taylor Young,Rock,1975,214,56
+77,The Crystal Bridge,Hugo Elm,R&B,1973,153,69
+78,Gentle Blues,Biel White,R&B,2008,174,50
+79,Dreams of Blues,The Storytellers,Country,2021,310,24
+80,Beyond the Storm,The Velvet Strings,Classical,1986,348,31
+81,Ruby Storm,The Wanderers,Rock,1970,260,31
+82,The Floating Castle,Pau Wild,Pop,1988,264,65
+83,River of Serenade,Kai Cruz,R&B,1983,305,49
+84,The Eternal Sun,Lucia Wild,R&B,1988,265,53
+85,Pale Thunder,The Silk Road Ensemble,Classical,1989,415,71
+86,Azure Whisper,The Midnight Echo,Rock,1970,291,21
+87,Along the River,River Hart,Hip-Hop,2008,281,62
+88,Road of Fire,Jordan Puig,Reggaeton,2024,252,41
+89,Desert of Requiem,Maria Rain,Country,1987,327,17
+90,Against the Melody,Iris Font,Electronic,2010,195,23
+91,Inside the Silence,Satin Voices,R&B,1992,150,52
+92,Sacred Storm,Tropical Wave,Reggaeton,2019,180,51
+93,Forest of Overture,Blue Note Trio,Jazz,1999,273,39
+94,Melody of Valley,Quinn Hawk,Reggaeton,2002,187,32
+95,Melody of Sky,Autumn Leaves Quartet,Jazz,1996,332,62
+96,Endless Waltz,Oscar Stone,Hip-Hop,1998,276,40
+97,After the Fire,Copper Sun,Jazz,2007,285,57
+98,The Quiet Harbor,Arctic Bloom,Indie,1970,359,22
+99,Eastern Crown,The Prairie Dogs,Country,2005,204,34
+100,Against the Rhapsody,Sakura Wind,Indie,2009,276,83
+101,The Sleepy Memory,Emma White,Reggaeton,2017,252,52
+102,Symphony of Lullaby,Sergi Sage,Hip-Hop,2003,191,75
+103,The Northern Twilight,Binary Storm,Electronic,2019,325,58
+104,Cold Wave,Zion True,Electronic,2010,246,64
+105,Beneath the Journey,Maria Sage,Country,1988,323,26
+106,Horizon of Requiem,Clara Torres,Classical,1990,254,53
+107,Restless Moon,Sofia Estrella,Pop,1990,180,61
+108,Bold Sonata,Marta Miles,Pop,1989,237,61
+109,Endless Overture,Dark Horizon,Rock,1980,342,25
+110,Compass of Door,Aina Lake,Jazz,1977,187,27
+111,Above the Lighthouse,Phantom Circuit,Electronic,1997,336,76
+112,Sun of Journey,Marcus Flow,Hip-Hop,2013,290,65
+113,The Tender Requiem,Harmony Fields,Pop,1982,313,100
+114,The Bitter Silence,Laia Pons,Jazz,1996,157,58
+115,Golden Requiem,Morgan Grant,Rock,1965,310,56
+116,The Scarlet Groove,Jan Gray,Country,1984,331,26
+117,Melody of Arrow,Elise York,Indie,2001,240,33
+118,Rhapsody of Harbor,Alex East,R&B,1973,355,100
+119,Beneath the Flame,Felix Silver,Electronic,2002,303,49
+120,Symphony of Rain,Sam Long,Electronic,2002,387,65
+121,Southern Sun,Blake Flynn,Pop,2009,360,99
+122,Beneath the Fortress,Emma Star,Indie,2009,178,100
+123,Rising Garden,Eden North,Classical,1975,208,31
+124,Thunder of Fortress,Riley Cruz,Pop,1992,196,17
+125,Garden of Heart,Martina Pine,R&B,1974,203,1
+126,The Tender Heart,Iron Gate,Rock,1997,314,80
+127,Heart of Flame,Coral Reef,Indie,2006,313,44
+128,Dust of Blues,Elena Costa,Reggaeton,2015,214,50
+129,Gentle Oasis,Max Fire,Electronic,1995,232,15
+130,Scarlet Lighthouse,Night Owl Collective,Jazz,1991,195,70
+131,Inside the Mirror,Blake Swift,R&B,1980,221,63
+132,Bold Horizon,Pau Snow,Classical,2012,271,71
+133,Crimson Forest,The Iron Wolves,Rock,1979,248,74
+134,Toward the Valley,Joan Gold,Rock,1987,353,27
+135,Valley of Ballad,Jordan Storm,Country,1965,307,70
+136,Before the Bridge,Parker Font,Pop,1983,161,62
+137,The Scarlet Tango,Milo Black,Electronic,2009,298,63
+138,Beyond the Road,Oriol Nash,Jazz,2005,289,84
+139,Dreams of Melody,Arlet Hill,Jazz,1988,163,97
+140,River of Symphony,Rowan Gold,Indie,1996,227,57
+141,Through the Labyrinth,Jade Rivers,R&B,2014,293,71
+142,The Swift Memory,Joan Font,Rock,2003,340,38
+143,Chasing the Night,Julia York,Rock,1977,291,70
+144,The Warm Labyrinth,Wild Frontier,Country,2008,347,77
+145,Golden Star,Nil Font,Electronic,2024,202,39
+146,Garden of Sonata,Alina Moon,Pop,1976,162,47
+147,Midnight Paradise,Marta Hill,Electronic,2015,334,74
+148,Garden of Rain,Blake Star,Jazz,1990,201,41
+149,After the Tempest,Felix Hart,R&B,2023,211,50
+150,Southern Heart,Phoenix Snow,Indie,1983,315,72
+151,The Hidden Island,Parker Hayes,Reggaeton,2008,280,68
+152,The Northern Light,Blue Note Trio,Jazz,2018,300,53
+153,Emerald Tango,Atlas Grant,Hip-Hop,2015,255,72
+154,Storm of Phoenix,Martina Nash,R&B,2021,258,66
+155,Toward the Paradise,Pere Vidal,Reggaeton,2008,216,58
+156,Through the Shadow,Nina Soleil,R&B,1984,351,28
+157,The Copper Sky,Morgan Wind,Indie,1992,286,67
+158,Hollow Thunder,The Resonants,Classical,1988,260,35
+159,Without the Arrow,Morgan Gray,Country,1997,333,92
+160,Without the Desert,Joan Vega,Pop,1999,177,29
+161,Beyond the River,Jordan Lopez,R&B,1987,271,54
+162,Toward the Overture,The Daydreamers,Indie,2004,151,95
+163,The Floating Rhapsody,Anna Cross,R&B,1987,164,39
+164,Distant Overture,The Prairie Dogs,Country,2009,302,62
+165,Eastern Dreams,Alina Moon,Pop,1980,201,23
+166,Lullaby of Symphony,Mountain Echo,Country,1982,205,55
+167,Northern Ocean,Morgan West,Reggaeton,2021,207,76
+168,Tempest of Dawn,Sara Frost,Electronic,2014,289,37
+169,Beneath the Heart,Stella Costa,Rock,1970,250,69
+170,Before the Desert,Rayo Urbano,Reggaeton,2018,216,60
+171,Nocturne of Mirror,Aina Silver,Electronic,2009,270,38
+172,Without the Memory,Luna Soler,Electronic,2009,194,43
+173,Sacred Light,Elena Green,Reggaeton,2010,197,46
+174,Golden Dust,Nil Sage,Jazz,1980,348,47
+175,Fierce Forest,Summer Nights,Pop,1984,192,54
+176,Compass of Forest,Pere Snow,Pop,2022,297,53
+177,The Velvet Sky,Phoenix Field,Electronic,1997,272,21
+178,Starlit Symphony,Kai Nash,Rock,1974,345,61
+179,Swift River,Pau East,Hip-Hop,2014,230,58
+180,The Mystic Tango,Taylor Ash,Classical,1973,359,54
+181,The Iron River,Lyrical Phoenix,Hip-Hop,2017,288,78
+182,Without the Sun,Sam Soler,Jazz,1998,259,41
+183,Beyond the Moon,Jordan Sharp,Reggaeton,2011,264,100
+184,The Cold Road,Sam Wood,Classical,1998,205,45
+185,The Ruby Whisper,Nora West,Indie,1987,311,44
+186,The Electric Shadow,Sage Wolf,Country,1973,297,52
+187,Above the Forest,Skyler Green,Hip-Hop,1995,210,39
+188,Prelude of Sun,Marc Sun,Classical,1977,405,92
+189,Within the Lighthouse,Eden Red,Hip-Hop,2001,247,31
+190,Between the Fire,Phoenix Wind,Classical,2011,344,10
+191,Chasing the Valley,Pau Star,Pop,1984,210,52
+192,After the Flame,Atlas Hawk,Reggaeton,2000,256,87
+193,Inside the Waltz,Velvet Dawn,Pop,1979,177,78
+194,The Sudden Echo,Lluis White,Country,2000,334,73
+195,Without the Echo,Leo South,Indie,2001,264,69
+196,Through the Mirror,Sergi True,Reggaeton,2022,236,54
+197,Melody of Groove,Elise Hill,Country,2004,338,43
+198,The Hidden Lullaby,The Pioneers,Country,2013,169,34
+199,Sky of Night,Aria Wade,Hip-Hop,1995,202,79
+200,The Sleepy Storm,The Prairie Dogs,Country,1975,211,59
+201,Arrow of Prelude,Albert Hawk,Rock,2010,350,67
+202,Floating Rain,Pere North,Country,2004,267,45
+203,The Hollow Rain,Dakota Sun,Country,1974,264,75
+204,Electric Melody,Marc Swift,Country,2011,221,66
+205,After the Night,Stella Gold,Electronic,2013,201,61
+206,The Sudden Serenade,Nova Fox,Jazz,1996,345,80
+207,Behind the Groove,Cinnamon Sky,R&B,2014,306,66
+208,Frozen Sky,Aina Miles,Hip-Hop,2020,195,44
+209,Under the Road,Leo Oak,Reggaeton,2015,249,33
+210,The Fragile Crown,The Storytellers,Country,2014,296,42
+211,Within the Symphony,River Wind,Rock,1995,340,61
+212,Groove of Shadow,Scarlet Fever,Rock,1967,159,40
+213,Harbor of Mountain,Phoenix Vidal,Classical,2019,225,34
+214,Before the Groove,Rayo Urbano,Reggaeton,2010,192,33
+215,Valley of Road,Amber Light,Indie,1993,213,59
+216,The Midnight Bridge,MC Blaze,Hip-Hop,2002,161,74
+217,The Frozen Light,Sage West,Reggaeton,2006,215,37
+218,Dawn of Forest,Morgan True,Jazz,1965,339,62
+219,Lost Door,The Midnight Echo,Rock,1994,312,61
+220,The Wild Phoenix,Nina Soleil,R&B,2004,214,39
+221,Paradise of Night,Jade Rivers,R&B,2017,353,94
+222,The Broken Moon,Marcus Flow,Hip-Hop,2002,274,100
+223,The Deep Rain,Anna Font,Indie,1975,283,52
+224,Echo of Nocturne,Diana Cole,Rock,2003,338,59
+225,Wind of Horizon,Luna Vega,Pop,2008,334,89
+226,Star of Garden,Eden York,Reggaeton,2020,214,35
+227,The Obsidian Castle,Emma Storm,Country,1978,205,65
+228,Beneath the Oasis,Rosa Green,Indie,1997,309,37
+229,The Hidden Serenade,Cloud Nine,R&B,2001,158,28
+230,Thunder of Twilight,Nova Beat,Hip-Hop,1995,267,79
+231,The Azure Star,Leo Crane,Jazz,2021,283,52
+232,Road of Tango,Atlas Wood,Pop,1995,343,42
+233,The Bright Lighthouse,Atlas Lopez,Rock,1965,252,53
+234,Against the Arrow,Atlas Fire,Pop,2008,234,54
+235,Ritme de Nit,Rayo Urbano,Reggaeton,2019,198,78
+236,Whisper of Crown,Jan Miles,Classical,2020,280,57
+237,The Burning Moon,Max Wind,R&B,2014,252,48
+238,The Western Road,Iris Wind,Classical,1969,402,60
+239,Storm of Shadow,Fuego Latino,Reggaeton,2023,215,52
+240,Forest of Crown,Reese Vidal,Jazz,1998,310,77
+241,Heart of Fire,Luna Vega,Pop,2020,178,62
+242,Through the Sky,Felix Nash,Classical,1960,332,48
+243,Sapphire Sky,Noa Grant,R&B,1970,316,100
+244,Shadow of Arrow,Arlet Wind,Country,1971,158,62
+245,Nocturne of Light,Casey Night,Reggaeton,2013,176,70
+246,Wind of Paradise,Hugo Sun,Electronic,2011,361,73
+247,The Amber Ballad,Lluis Silver,Hip-Hop,2010,298,55
+248,Along the Sonata,Zion Sage,Pop,1974,211,74
+249,The Sacred Twilight,The Silk Road Ensemble,Classical,1967,181,31
+250,The Frozen Arrow,Pere Cole,Classical,1982,287,80
+251,Fire of Night,Marc Wolf,Indie,2021,222,43
+252,Sonata of Fortress,Skyler Long,Indie,2015,171,49
+253,Road of Requiem,Max Bright,Reggaeton,2024,232,41
+254,Around the Dust,The Velvet Strings,Classical,1968,418,50
+255,Phoenix of River,Marcus Flow,Hip-Hop,1991,260,61
+256,Tempest of Lullaby,DJ Nexus,Electronic,2023,312,39
+257,Inside the Phoenix,Pere Frost,Country,1965,153,77
+258,The Golden Night,Morgan Torres,Jazz,1975,195,67
+259,The Bold Sun,Laia Gold,R&B,1974,342,89
+260,Deep Dust,Stella Day,Jazz,1975,330,44
+261,Behind the Star,Zion Drew,Reggaeton,1998,250,63
+262,Labyrinth of Mirror,Max Serra,Jazz,1980,317,69
+263,Against the Prelude,Scarlet Fever,Rock,1998,266,82
+264,The Copper Melody,The Prairie Dogs,Country,1984,295,33
+265,Storm of Symphony,Clara Serra,Electronic,2011,327,61
+266,Star of Groove,Sam Young,Hip-Hop,1999,300,71
+267,The Crystal Dust,Pau North,Classical,2006,214,29
+268,Floating Storm,Paula Vale,Hip-Hop,2003,278,23
+269,Around the Garden,Blue Note Trio,Jazz,2020,167,58
+270,The Sleepy Dawn,Sam Puig,Reggaeton,1995,179,37
+271,The Tender Sky,Milo Brook,Rock,1966,207,52
+272,The Cold Serenade,Milo South,Electronic,2004,343,75
+273,Between the Phoenix,Marcus Flow,Hip-Hop,2019,264,63
+274,Garden of Light,Morgan Rose,Jazz,1995,255,50
+275,Without the Ballad,Arctic Bloom,Indie,2000,150,49
+276,Garden of Labyrinth,Biel Long,Classical,1970,193,61
+277,Storm of Twilight,Sergi White,Indie,1990,300,38
+278,The Ivory Rhapsody,Vera Drew,Country,2015,158,44
+279,Ocean of Garden,Cinnamon Sky,R&B,1998,203,1
+280,Beyond the Tango,Marta Pons,Hip-Hop,1986,164,60
+281,Lighthouse of Road,Dark Horizon,Rock,2004,356,88
+282,The Golden Garden,Aina Ruiz,Country,2006,150,53
+283,The Dark Anthem,Laia Torres,Pop,2006,170,53
+284,The Vivid Requiem,Sam Lopez,Country,1966,191,67
+285,Azure Oasis,DJ Nexus,Electronic,2023,386,52
+286,The Gentle Twilight,Lucia Roca,Country,1986,203,8
+287,Waltz of Arrow,Dream Catcher,Pop,2013,223,53
+288,Horizon of Mountain,Rayo Urbano,Reggaeton,1997,280,90
+289,Heart of Harbor,Laura Wild,Jazz,2020,207,45
+290,Rain of Sonata,Crystal Method,Electronic,2008,193,62
+291,Hidden Night,Deep Current,Electronic,2000,234,34
+292,After the Desert,Jade Rivers,R&B,2016,357,40
+293,Neon Horizon,Sofia Estrella,Pop,1970,342,62
+294,Beneath the Waltz,Pixel Hearts,Electronic,2015,226,71
+295,Melody of Dawn,Jordan Rain,Electronic,2019,273,70
+296,Ruby Garden,Hugo Torres,R&B,2011,292,47
+297,The Sleepy Wind,The Wanderers,Rock,1988,189,45
+298,Against the Dawn,Voltage,Rock,2011,238,66
+299,Frozen Door,Reese Lake,Rock,1972,328,44
+300,Mystic Forest,Reese True,Rock,1976,259,88
+301,The Gentle Symphony,Satin Voices,R&B,1976,320,41
+302,Gentle Whisper,River Stone,Country,2001,241,1
+303,Distant Nocturne,Oscar Sage,Electronic,2024,199,67
+304,The Eternal Mirror,Blake Long,Country,1993,322,34
+305,Storm of Anthem,Nova Beat,Hip-Hop,2004,236,61
+306,Under the Nocturne,Pixel Hearts,Electronic,1996,255,66
+307,Beyond the Sonata,Rosa West,Classical,1992,339,67
+308,Symphony of Wave,The Iron Wolves,Rock,1996,206,48
+309,Crown of Groove,Pere Costa,Hip-Hop,2005,237,14
+310,Bridge of Garden,Clara Reed,R&B,1997,312,31
+311,The Emerald Castle,Dakota Drew,Indie,1982,341,64
+312,Desert of Road,Sergi Flynn,Electronic,1997,313,16
+313,The Endless Melody,Reese Rain,Country,1998,333,84
+314,The Ivory Dust,Morgan Wild,Pop,1987,323,82
+315,Rising Phoenix,Parker Hawk,Classical,1981,200,84
+316,Across the Thunder,Sage Vega,Reggaeton,2007,231,68
+317,Scarlet Blues,Nina Soleil,R&B,2018,223,57
+318,Ancient Star,The Midnight Echo,Rock,1997,304,69
+319,The Bold Prelude,Julia Star,R&B,2009,359,74
+320,Compass of Oasis,Carla York,Electronic,2015,360,39
+321,After the Storm,Albert West,Pop,1982,186,21
+322,The Distant Ballad,Emma North,Pop,2021,324,41
+323,Mystic Island,Luna Vega,Pop,1999,336,55
+324,The Sapphire Storm,Crossroad Blues,Jazz,2011,258,81
+325,Deep River,Blake Torres,Pop,2018,355,38
+326,Within the Tempest,Stella Storm,Pop,2023,180,36
+327,Rhapsody of Phoenix,Atlas True,Indie,1965,313,93
+328,Labyrinth of Night,Taylor Long,Indie,2002,288,58
+329,Lighthouse of Horizon,Phoenix Rain,Classical,1967,298,45
+330,Along the Door,Arlet South,Jazz,1973,336,42
+331,Sky of Twilight,Diana Kent,Pop,1985,293,33
+332,The Ivory Mirror,Sam Hayes,Pop,1990,240,73
+333,Before the Island,Carla Price,Country,1968,252,33
+334,Tender Groove,Carmen Luna,Reggaeton,2007,219,85
+335,Without the Horizon,Rosa Swift,Jazz,2022,195,37
+336,Velvet Flame,Oriol Cross,Pop,1998,352,59
+337,Paradise of Ballad,River Green,Indie,2014,200,35
+338,The Floating Journey,Clara Flynn,Rock,2004,235,91
+339,Bright Night,Alma Fuerte,Reggaeton,2011,210,92
+340,Behind the Whisper,Vera Swift,Rock,2021,230,38
+341,Bitter Tango,Eden Miles,Jazz,2016,260,37
+342,Hollow Echo,Joan Costa,Electronic,1996,214,56
+343,Ivory Fire,Mountain Echo,Country,1974,190,55
+344,Oasis of Prelude,Milo West,R&B,2016,191,42
+345,Across the Star,The Ember Kings,Rock,2019,348,38
+346,Scarlet Compass,Marc Fox,Rock,1989,230,81
+347,Whisper of Door,Max Hayes,Rock,2005,317,78
+348,The Hollow Door,Iron Gate,Rock,1973,310,28
+349,Phoenix of Tango,Cleo Sage,Rock,1985,304,49
+350,Star of Wave,Felix Rose,Reggaeton,2003,174,19
+351,The Eternal Night,Binary Storm,Electronic,2024,266,46
+352,Neon Ballad,Marcus Flow,Hip-Hop,2006,177,1
+353,Memory of Serenade,Luna Vega,R&B,1989,302,65
+354,Crystal Melody,Rayo Urbano,Reggaeton,2021,195,74
+355,The Western Shadow,Noa Field,Classical,2009,404,11
+356,Hidden Oasis,Sage Font,Indie,1966,227,75
+357,Valley of Tempest,Hugo Green,Country,1969,343,39
+358,Mountain of Journey,Laia Grant,Rock,1966,348,69
+359,River of Mountain,The Wanderers,Rock,2019,317,50
+360,The Fragile Rhapsody,Urban Shadow,Hip-Hop,1992,185,60
+361,Bright Whisper,Arlet York,Country,2001,249,44
+362,Crimson Sky,Skyler Grant,Pop,1985,326,52
+363,Blues of Journey,Laia Star,Electronic,2000,292,52
+364,The Floating Road,Alex Red,Electronic,2011,354,88
+365,The Sacred Groove,Avery Price,Country,1975,171,51
+366,Bridge of Lighthouse,Sergi Ruiz,Rock,1977,190,42
+367,Across the Light,Diamond Dust,Pop,2002,236,92
+368,Lullaby of Desert,Silver Lining,Pop,1988,245,69
+369,Journey of Flame,Jordan Day,Electronic,2004,247,100
+370,Fragile Fortress,Stella Fire,Indie,1989,333,53
+371,The Golden Rain,Milo Hill,Pop,2023,268,45
+372,Toward the Flame,Dark Horizon,Rock,1987,354,54
+373,The Azure Garden,Martina Lane,Jazz,1982,352,100
+374,Pale Paradise,Oscar Wolf,Reggaeton,2001,185,45
+375,Around the Sky,DJ Nexus,Electronic,2022,340,42
+376,Harbor of Memory,Oscar Lopez,Hip-Hop,2022,246,74
+377,Chasing the Door,Marina del Sol,Reggaeton,2022,178,82
+378,Tango of Sonata,Vera Torres,Classical,1964,201,87
+379,Within the Silence,Crossroad Blues,Jazz,1985,176,69
+380,The Floating Desert,Elise Font,Hip-Hop,2017,211,46
+381,The Pale Whisper,Pere Vale,Electronic,2013,220,59
+382,Ancient Wave,Albert Brook,Indie,2022,201,39
+383,Whisper of Serenade,The Ember Kings,Rock,2007,352,65
+384,Starlit Prelude,Leo Soler,Hip-Hop,2012,203,49
+385,The Iron Harbor,Eden West,Country,2004,226,43
+386,The Crystal Sun,The Prairie Dogs,Country,1972,292,57
+387,The Restless Moon,Vienna Chamber Players,Classical,1988,336,48
+388,Before the Arrow,Nova Price,Electronic,1995,201,31
+389,The Crimson Door,Max Ash,Country,1985,314,90
+390,The Electric Sonata,Elise White,Pop,1996,242,48
+391,Beyond the Valley,Felix Cruz,R&B,1980,251,49
+392,The Vivid Journey,The Iron Wolves,Rock,2010,223,56
+393,Lighthouse of Tango,Rosa Cross,Hip-Hop,2000,157,60
+394,Crown of Ballad,Casey Flynn,Classical,1971,391,1
+395,Pale Sky,Nova Beat,Hip-Hop,2000,261,12
+396,The Mystic Mirror,Marc Wood,Reggaeton,2016,214,74
+397,Bright Shadow,Eden Puig,Classical,1968,307,83
+398,Memory of Harbor,Phoenix York,Reggaeton,2015,171,62
+399,Within the Bridge,Marcus Flow,Hip-Hop,2021,297,17
+400,Copper Door,Anna Hart,R&B,2001,278,57
+401,The Silent Door,Riley White,Hip-Hop,2016,203,100
+402,Beneath the Twilight,Nil Wood,Classical,2017,239,57
+403,Crimson Mountain,Elena Lane,Country,1984,156,20
+404,The Rising Storm,Quinn North,Classical,1995,378,64
+405,The Hollow Heart,Felix Wild,Pop,2017,307,65
+406,Swift Island,Jordan Font,R&B,1972,207,69
+407,Sudden Fire,Nora Wild,Reggaeton,2024,216,38
+408,Bright Phoenix,Skyler Lane,Hip-Hop,2008,266,83
+409,Without the Flame,The Silk Road Ensemble,Classical,2009,215,54
+410,Vivid Island,Laia Torres,Pop,2009,226,20
+411,Toward the Groove,Skyler Rose,Indie,1989,179,52
+412,The Bright Moon,Milo Young,Classical,2020,272,74
+413,The Burning Light,Biel Cole,Country,1966,340,43
+414,The Crystal Shadow,Stella Wind,Electronic,2013,382,100
+415,The Tender Dawn,Arctic Bloom,Indie,2007,181,68
+416,Symphony of Sun,The Nomads,Jazz,2020,190,60
+417,The Eastern Lullaby,Neon Pulse,Electronic,2014,388,65
+418,Behind the Tango,Jordan White,Pop,2013,250,53
+419,The Emerald Bridge,The Rust Belt,Rock,2007,329,72
+420,Prelude of Desert,Riley Frost,Reggaeton,2011,167,75
+421,Forest of Desert,Lyrical Phoenix,Hip-Hop,1996,192,53
+422,Whisper of Star,Nil White,Country,1997,300,42
+423,The Shattered Wind,Phantom Circuit,Electronic,2016,182,74
+424,Starlit Whisper,Rosa Young,Indie,1966,340,42
+425,The Gentle Sky,Riley Flynn,Classical,1990,241,57
+426,Before the Rhapsody,Felix Soler,Country,1993,310,64
+427,The Golden Anthem,River Stone,Country,1982,152,23
+428,The Shattered Lullaby,Arctic Bloom,Indie,1993,322,69
+429,Eastern Desert,The Midnight Echo,Rock,2009,258,48
+430,Eternal Flame,Kai Crane,Jazz,1994,271,79
+431,The Sapphire Dreams,Iris Hill,Classical,2008,408,39
+432,Ruby Anthem,Night Owl Collective,Jazz,2015,276,69
+433,Ballad of Symphony,The Silk Road Ensemble,Classical,1978,209,63
+434,The Dusty Serenade,Eden Price,Indie,1980,297,71
+435,The Copper Shadow,Noa Fox,Pop,2016,338,44
+436,Obsidian Flame,Julia Field,Electronic,2009,358,72
+437,Across the Memory,Binary Storm,Electronic,1999,369,66
+438,Under the Memory,The Crescendos,Classical,1979,281,47
+439,The Gentle Star,Reese Pons,Country,1987,226,89
+440,The Quiet Sky,Amber Light,Indie,1985,211,53
+441,Neon Arrow,Max Field,R&B,1980,342,65
+442,Electric Heart,Milo White,Jazz,2006,332,84
+443,Above the Night,Crystal Method,Electronic,2012,183,55
+444,Fire of Harbor,Laia Hill,Indie,1965,176,47
+445,Memory of Sky,Milo Blue,Indie,2008,164,37
+446,Behind the River,Urban Shadow,Hip-Hop,2016,254,72
+447,Lost Prelude,Echo Valley,Rock,1967,312,38
+448,Through the Tango,Sergi Miles,Country,1967,243,69
+449,Night of Shadow,Mountain Echo,Country,1979,251,62
+450,Golden Symphony,Oriol Vega,Electronic,1995,183,47
+451,Wild Compass,Luna Vega,Pop,2016,230,48
+452,Before the Shadow,Nashville Hearts,Country,2010,261,53
+453,Broken Fortress,Pere Brook,Country,1984,335,18
+454,Inside the Castle,Luna Storm,Rock,2009,208,49
+455,Neon Dawn,Rosa York,Country,1970,229,75
+456,The Broken Anthem,The Silk Road Ensemble,Classical,2015,369,55
+457,Golden Garden,Iris Nash,Hip-Hop,2009,178,47
+458,The Floating Sky,Anna Rose,Hip-Hop,2002,277,81
+459,The Wild Symphony,Nova Ruiz,Classical,1987,355,57
+460,Mountain of River,Urban Shadow,Hip-Hop,2000,287,56
+461,Eastern Phoenix,Diana Long,Electronic,2022,317,51
+462,Behind the Mountain,Fuego Latino,Reggaeton,2012,188,26
+463,Before the Garden,Biel Hayes,Electronic,1995,246,77
+464,Lighthouse of Arrow,Nina Soleil,R&B,1973,351,1
+465,Vivid Phoenix,Carmen Luna,Reggaeton,2005,237,42
+466,The Hollow Prelude,Jordan Nash,Rock,2009,327,43
+467,Emerald Harbor,Felix Kent,Classical,1993,383,55
+468,Warm Moon,Nora Night,Electronic,2004,190,66
+469,Neon Garden,Nil Puig,Indie,1988,277,18
+470,Heart of Prelude,Sakura Wind,Indie,1987,254,38
+471,Inside the Journey,Sunset Boulevard,Indie,1976,347,65
+472,Quiet Mountain,Nova Beat,Hip-Hop,2018,280,92
+473,Behind the Forest,Sergi Nash,Indie,1985,351,27
+474,Sacred Dust,Casey Red,Jazz,1980,308,67
+475,Journey of Sun,Blake Wood,Electronic,2001,222,27
+476,Fortress of Twilight,Stella Reed,Classical,1991,331,100
+477,Bitter Whisper,The Rust Belt,Rock,2006,352,45
+478,Serenade of Star,Dakota Black,Indie,2022,251,51
+479,The Sapphire Ocean,Reese Brook,Hip-Hop,1989,290,75
+480,The Burning Anthem,Reese Blue,R&B,2021,246,97
+481,Toward the Tempest,Luna Green,Hip-Hop,2003,162,43
+482,River of Lullaby,Leo Vega,Rock,1997,298,60
+483,Harbor of Dreams,Nashville Hearts,Country,1972,216,79
+484,Between the Sun,Casey South,Hip-Hop,2012,195,71
+485,The Ancient Road,The Midnight Echo,Rock,2009,324,43
+486,Above the Fortress,Pacific Drift,Electronic,2021,324,100
+487,The Northern Dawn,Nashville Hearts,Country,1992,305,65
+488,Silver Blues,Dakota Swift,Indie,1971,356,92
+489,Obsidian Labyrinth,Jade Rivers,R&B,1978,324,93
+490,Along the Wave,Bass Nation,Electronic,1998,231,6
+491,The Azure Dawn,The Nomads,Jazz,1977,345,94
+492,Eastern Journey,Eden Silver,Indie,2007,342,71
+493,Amber Journey,Paula North,Reggaeton,2012,163,86
+494,Groove of Phoenix,Rosa Roca,Hip-Hop,2005,250,56
+495,The Eastern Anthem,Vera Black,Country,1990,168,37
+496,Silent Harbor,Nora Wade,Hip-Hop,2009,182,27
+497,The Shattered Castle,Morgan Storm,Jazz,2018,291,62
+498,Lost Rhapsody,Luna Crane,Rock,1998,228,68
+499,Valley of Star,Carla Brook,Electronic,2021,288,52
+500,Along the Shadow,Pere Gold,Country,1966,200,50
+501,Gentle Rhapsody,Stellar Groove,R&B,1996,292,56
+502,Valley of Wind,Eden Frost,Pop,1967,166,29
+503,Silent Flame,Vera Sharp,Indie,2012,198,30
+504,Fortress of Sonata,Laia Flynn,Jazz,1973,172,58
+505,The Copper Dawn,Sunset Boulevard,Indie,1974,262,4
+506,The Silver Serenade,Elise Moon,Jazz,1993,334,8
+507,Along the Tempest,Atlas Snow,Country,2007,193,67
+508,Phoenix of Heart,Vera Stone,Electronic,2004,377,30
+509,Wind of Ocean,Reese North,Country,1996,286,17
+510,Across the Overture,Nil West,Indie,2006,202,78
+511,The Silent Tempest,Coral Reef,Indie,1978,263,39
+512,Sapphire Tango,Kai Silver,Classical,1966,356,45
+513,Mystic Twilight,DJ Nexus,Electronic,2010,184,85
+514,Electric Fortress,Riley Pons,Jazz,2002,261,85
+515,Tender Forest,Alina Moon,Pop,1980,182,44
+516,The Dark Island,Lucia Flynn,Indie,2001,260,83
+517,Frozen Tango,Elise West,Hip-Hop,1985,174,90
+518,Pale Tango,Cleo Silver,Pop,1977,171,8
+519,The Pale Harbor,Stellar Groove,R&B,1987,329,42
+520,Heart of Wave,Crystal Method,Electronic,2021,209,44
+521,River of Overture,Rosa Rose,Indie,2002,181,63
+522,Lost Compass,Jade Rivers,R&B,2019,270,61
+523,Northern Moon,Cleo West,Rock,1970,192,46
+524,Between the Star,Marina del Sol,Reggaeton,2005,259,40
+525,Between the Echo,River Elm,R&B,2011,323,60
+526,Around the Compass,Quinn Long,Jazz,2016,166,49
+527,Overture of Storm,Aria Vega,Hip-Hop,2017,202,41
+528,The Lost River,Riley Black,Pop,1985,186,38
+529,The Restless Nocturne,Paula Drew,Pop,1965,259,37
+530,Crystal Flame,Binary Storm,Electronic,2007,287,42
+531,Journey of Star,Fuego Latino,Reggaeton,2024,193,21
+532,Under the Wind,Nova Font,Electronic,2022,372,100
+533,Door of Mirror,Sakura Wind,Indie,2002,261,41
+534,Cold Journey,Oscar Brook,Hip-Hop,1987,281,73
+535,Deep Overture,Marina del Sol,Reggaeton,2019,206,56
+536,Toward the Rain,Phoenix North,Electronic,1998,320,29
+537,Road of Melody,Skyler Cross,R&B,1970,343,77
+538,Road of Night,Stellar Groove,R&B,1981,209,65
+539,Behind the Bridge,Rayo Urbano,Reggaeton,1996,199,21
+540,The Crimson Bridge,Skyler Hawk,Pop,1984,338,95
+541,Hidden Island,Elena Puig,Jazz,2001,180,34
+542,Floating Whisper,Stella Serra,Country,2017,303,29
+543,Island of Sonata,The Iron Wolves,Rock,2023,182,83
+544,River of Bridge,Leo Night,Electronic,2005,372,51
+545,Under the Castle,Hugo Snow,R&B,1969,259,56
+546,Silver Sky,River Pons,Reggaeton,2004,208,67
+547,Southern Forest,Rayo Urbano,Reggaeton,2003,196,27
+548,Deep Symphony,Aria Stone,R&B,1998,278,66
+549,Ivory Garden,Rayo Urbano,Pop,2003,174,37
+550,Northern Whisper,Parker Stone,Indie,2006,215,18
+551,Dreams of Sun,Leo Bright,R&B,1969,219,62
+552,Through the Lighthouse,Skyler Storm,Electronic,2001,250,3
+553,The Iron Paradise,The Midnight Echo,Indie,2003,217,67
+554,Inside the Labyrinth,Anna Silver,Country,2012,261,100
+555,Cold Silence,MC Blaze,Hip-Hop,1993,275,57
+556,Journey of Wind,Nova Oak,Indie,1981,247,47
+557,The Fragile Dreams,Reese Lane,Rock,1994,282,68
+558,Bright Silence,Harmony Fields,Pop,1984,264,36
+559,Velvet Sky,Leo Flynn,Country,2017,293,65
+560,Beyond the Wind,MC Blaze,Hip-Hop,2015,179,64
+561,The Sacred Nocturne,Albert Fire,Jazz,1975,308,85
+562,The Tender Mirror,Maria Sun,R&B,1992,311,49
+563,The Starlit Compass,Arlet Ash,Electronic,2014,378,17
+564,The Warm Island,Marta Flynn,Jazz,2015,212,32
+565,Road of Groove,Fuego Latino,Reggaeton,2012,223,58
+566,Overture of Desert,Neon Pulse,Electronic,2018,301,20
+567,The Burning Horizon,Clara Silver,Country,2008,275,62
+568,Crystal Tango,DJ Nexus,Pop,2021,197,62
+569,Inside the Prelude,DJ Nexus,Electronic,2012,222,50
+570,Night of Overture,Nil Gray,R&B,2022,236,91
+571,Burning Silence,Quinn Crane,Pop,1972,286,67
+572,Wave of Rhapsody,Anna Hayes,Hip-Hop,2003,259,58
+573,Memory of Valley,Max Pine,Reggaeton,1999,272,89
+574,Velvet Fire,Jordan Reed,Jazz,2018,167,56
+575,The Obsidian Paradise,Phoenix Wood,Reggaeton,2023,206,21
+576,Obsidian Serenade,Avery Lopez,R&B,1980,203,88
+577,Restless Garden,The Architects,Rock,1965,290,67
+578,Tempest of Serenade,Anna Vale,Classical,1991,258,27
+579,Ocean of Wave,Lluis Green,Electronic,2007,227,92
+580,Shattered Melody,Martina Stone,Classical,1996,311,69
+581,Lighthouse of Ballad,Morgan Lane,Jazz,2022,231,27
+582,The Broken River,Vera Lopez,Classical,1961,302,50
+583,The Pale Tango,The Iron Wolves,Hip-Hop,1966,249,37
+584,Golden Shadow,Riley Nash,Classical,1968,394,100
+585,Bright Bridge,Oscar Black,Rock,1993,216,44
+586,Under the Silence,Nina Soleil,R&B,1985,341,65
+587,Beyond the Castle,David Gold,Rock,1978,182,56
+588,Northern Garden,David Storm,R&B,2011,342,100
+589,The Dusty Ballad,Aria Crane,Country,2005,352,60
+590,Chasing the Castle,Static Noise,Rock,2019,305,44
+591,Western Melody,Neon Pulse,Electronic,2002,225,81
+592,The Silver Crown,Emma Cruz,Pop,2019,337,100
+593,Against the Lighthouse,Dakota Gray,R&B,2005,344,69
+594,Azure Castle,Emma Fox,Hip-Hop,1986,298,62
+595,The Midnight Door,Iris Red,Classical,2017,315,12
+596,Along the Whisper,Max West,Rock,1992,204,32
+597,Silence of Compass,Fuego Latino,Reggaeton,2002,196,45
+598,The Lost Rhapsody,Silver Lining,Pop,2014,236,51
+599,Neon Harbor,Coral Reef,Indie,1980,182,58
+600,The Mystic Echo,Fuego Latino,Reggaeton,2009,175,36
+601,The Cold Valley,Laura Sage,Pop,2006,293,100
+602,Light of Nocturne,Rhythm & Soul,R&B,1969,326,77
+603,The Swift Whisper,Noa Roca,R&B,2004,323,18
+604,Crystal Ocean,Milo Pine,R&B,1992,183,75
+605,Toward the Castle,Phantom Circuit,Electronic,2002,298,32
+606,Rhapsody of Rhapsody,The Crescendos,Classical,2012,327,100
+607,Golden Mirror,Flamenco Fusion,Jazz,1996,282,41
+608,Sleepy Fortress,Lyrical Phoenix,Hip-Hop,2024,183,15
+609,Between the Forest,Aria Serra,Reggaeton,2002,175,23
+610,The Distant Labyrinth,Nova Kent,Hip-Hop,1988,224,46
+611,The Vivid Bridge,Diana Grant,Indie,1986,224,27
+612,The Midnight Echo,Jordi Wade,R&B,1987,239,32
+613,Paradise of Sun,Nova West,Pop,2012,319,93
+614,The Azure Road,Copper Sun,Jazz,1973,177,39
+615,Floating Symphony,Sage Lake,Reggaeton,2014,253,68
+616,After the Rain,Marcus Flow,Hip-Hop,1989,165,61
+617,Horizon of Melody,Maria Star,Hip-Hop,2017,184,50
+618,The Eternal Ocean,Luna South,Country,2006,248,87
+619,Around the Prelude,Arctic Bloom,Indie,2015,353,52
+620,Beyond the Twilight,Max Crane,R&B,1976,156,42
+621,Lost Overture,Albert Reed,R&B,1985,246,49
+622,The Velvet Tempest,Coral Reef,Indie,1999,315,60
+623,Eastern Road,Sakura Wind,Indie,2001,160,56
+624,Paradise of Dreams,Tropical Wave,Reggaeton,2008,166,81
+625,Fire of Sun,Neon Pulse,Electronic,2024,211,16
+626,The Distant Waltz,Blue Note Trio,Jazz,1995,212,43
+627,The Electric Fire,Sam Silver,Hip-Hop,1992,264,44
+628,Restless Bridge,Joan Sage,Rock,1986,242,69
+629,Western Harbor,Pixel Hearts,Electronic,1999,191,43
+630,The Cold Light,Neon Garden,Indie,1979,226,59
+631,Before the Door,Iris Vidal,Rock,1995,201,57
+632,The Broken Harbor,Silver Lining,Pop,1971,292,48
+633,Around the Labyrinth,Reese Black,Electronic,1996,288,39
+634,Golden Door,The Midnight Echo,Rock,1980,207,61
+635,Arrow of Ballad,Hugo Grant,R&B,1986,166,64
+636,Sonata of Arrow,Reese Silver,Reggaeton,2004,244,28
+637,The Velvet Heart,The Midnight Echo,Rock,1989,174,65
+638,The Sleepy Paradise,Shadow Puppets,Indie,2010,166,58
+639,Nocturne of Rhapsody,Cleo Elm,Rock,1991,240,39
+640,Bitter Rhapsody,Riley Hawk,Hip-Hop,2005,173,27
+641,Door of Echo,MC Blaze,Hip-Hop,1991,199,49
+642,Shadow of Rain,Hugo Day,Reggaeton,2021,219,49
+643,Floating Memory,Echo Valley,Rock,1987,211,68
+644,Fire of Echo,Velvet Dawn,Pop,2003,229,37
+645,Waltz of Flame,Sofia Estrella,Pop,2020,252,44
+646,The Electric Forest,Phoenix Knight,Pop,1968,314,31
+647,The Ancient Blues,Luna Vega,Pop,1990,314,59
+648,Harbor of Compass,Arlet Puig,R&B,1975,320,62
+649,Behind the Dreams,Jade Rivers,R&B,1976,338,89
+650,Amber Horizon,Dakota North,Indie,2015,177,15
+651,Echo of Dreams,Vera Sage,Pop,1979,337,46
+652,Valley of Dust,Flamenco Fusion,Jazz,2014,216,50
+653,Toward the Compass,The Ember Kings,Rock,1973,278,74
+654,Bitter Overture,Reese Hayes,R&B,2020,257,59
+655,Shattered Serenade,Vera Hayes,Indie,1994,353,27
+656,The Pale Ballad,The Bookends,Indie,2012,262,72
+657,Light of Oasis,Casey Wild,R&B,2009,322,34
+658,Lullaby of Fire,Crystal Method,Electronic,2001,248,74
+659,Ruby Fire,Carla True,Indie,2009,351,62
+660,Journey of Harbor,Julia Grant,R&B,1973,333,60
+661,Blues of Mountain,Max Reed,Country,2019,334,62
+662,The Ruby Oasis,The Midnight Echo,Rock,2001,199,53
+663,Night of Rhapsody,Max Red,Hip-Hop,1990,177,75
+664,Copper Harbor,Alma Fuerte,Reggaeton,2003,175,74
+665,Waltz of Requiem,Arlet Storm,Jazz,1984,296,68
+666,Before the Nocturne,Pere Lopez,Pop,2008,187,54
+667,Through the Forest,Nil Hawk,R&B,1977,157,84
+668,Chasing the Anthem,Arlet Stone,Hip-Hop,1998,228,100
+669,Phoenix of Anthem,Marc Vidal,Electronic,2021,193,64
+670,Along the Sun,Carla Rose,R&B,1969,205,81
+671,Castle of Sun,The Resonants,Classical,1962,326,58
+672,Dust of Fortress,Biel Fire,Country,2023,357,60
+673,Starlit Phoenix,Eden Drew,Reggaeton,2019,220,82
+674,Frozen Whisper,Sofia Estrella,Pop,1965,249,51
+675,The Scarlet Wave,Urban Shadow,Hip-Hop,1989,268,19
+676,After the Blues,Bass Nation,Electronic,1995,272,35
+677,Wave of Whisper,Lluis Kent,Rock,1971,350,38
+678,Shattered Mountain,Sage Vale,Classical,1993,214,52
+679,Memory of Waltz,Anna South,Reggaeton,1995,212,74
+680,Across the Silence,Carla Elm,Electronic,2012,305,94
+681,Sacred Blues,Rosa Flamenca,Reggaeton,2014,272,75
+682,The Tender Waltz,Neon Garden,Indie,1977,213,30
+683,Serenade of Ballad,Atlas Cross,Reggaeton,2014,194,55
+684,The Restless Desert,River Stone,Country,1969,263,40
+685,Frozen Forest,Cleo Night,Pop,2012,329,60
+686,The Tender Nocturne,Eden Font,R&B,2007,345,11
+687,Along the Desert,Julia Reed,Rock,2011,224,57
+688,Around the Wind,Elena Oak,Electronic,2006,287,26
+689,The Amber Castle,Midnight Jazz Club,Jazz,1973,159,45
+690,Through the Light,Golden Frequency,Jazz,2019,325,45
+691,The Burning Wave,Diana True,Electronic,2023,247,51
+692,Within the Light,David Oak,Reggaeton,1998,277,100
+693,Distant Tango,Jordi Black,Hip-Hop,2020,276,78
+694,The Western Tango,Neon Pulse,Electronic,2015,241,66
+695,The Shattered Dreams,Autumn Leaves Quartet,Jazz,1968,272,65
+696,The Sacred Ocean,Dream Catcher,Pop,2023,346,79
+697,Pale Mirror,Dakota East,Indie,1981,275,42
+698,Emerald Sonata,Maria Serra,Reggaeton,2010,200,42
+699,Compass of Ocean,Carmen Luna,Reggaeton,2006,266,47
+700,Dark Thunder,DJ Nexus,Hip-Hop,2013,321,59
+701,Vivid Labyrinth,Laia South,Country,2010,293,57
+702,Distant Harbor,The Architects,Rock,2010,270,70
+703,The Wild Wind,Rowan Sage,R&B,2007,271,86
+704,Warm Forest,Aina Ash,Country,1995,187,44
+705,Beyond the Phoenix,Sara West,Reggaeton,1999,198,64
+706,Eastern River,Emma Gold,Hip-Hop,1992,202,42
+707,Broken Blues,Skyler Vega,Jazz,2019,242,67
+708,Star of Tango,Aria West,Classical,1985,369,48
+709,Above the Arrow,Hugo Wind,Reggaeton,1995,182,35
+710,Azure Sonata,Quinn East,Reggaeton,2023,239,31
+711,The Velvet Symphony,Sage Green,Rock,1974,150,83
+712,Road of Dawn,Cleo Roca,Country,2004,177,47
+713,Requiem of Road,Dark Horizon,Rock,1985,212,36
+714,The Southern Blues,Julia Torres,Hip-Hop,2009,183,41
+715,The Eternal Lighthouse,Marta Wood,Country,2006,340,31
+716,Fire of Anthem,Nil Hayes,Classical,1979,358,80
+717,Electric Sonata,Avery Moon,Rock,1976,351,64
+718,Against the Fire,Alex Lane,R&B,1976,160,87
+719,Around the Oasis,The Pioneers,Country,1990,230,45
+720,Before the Mirror,Diana Oak,Reggaeton,2021,166,94
+721,Dreams of Desert,Nova Hawk,Rock,2024,233,43
+722,The Copper Memory,Maria Pons,Indie,2022,254,47
+723,Silence of Overture,Pere Elm,Rock,2004,244,62
+724,Against the Storm,The Rust Belt,Rock,2002,319,48
+725,Along the Nocturne,Biel East,Country,1970,152,11
+726,Beneath the Overture,Maria Hart,R&B,2019,292,68
+727,Fragile Melody,Deep Current,Electronic,2011,272,23
+728,River of Forest,Noa Cross,Country,2006,243,48
+729,Dawn of Waltz,Tidal Force,Electronic,2006,323,20
+730,The Rising Tempest,Joan White,R&B,1973,293,68
+731,The Bitter Wave,Alex Wade,Reggaeton,2004,250,53
+732,Door of Valley,Morning Dew,Folk,1973,174,76
+733,Blues of Shadow,Nova Moon,Pop,1982,257,72
+734,The Lost Twilight,Alina Moon,Pop,1978,266,37
+735,Toward the Dawn,Blake Vidal,Country,1972,352,77
+736,Sonata of Sonata,Eden Hart,Classical,1966,201,59
+737,Tender Memory,Laia Torres,Pop,1980,311,18
+738,Iron Light,Clara Long,Indie,1994,317,61
+739,Ancient Waltz,Zion Serra,Electronic,2015,217,92
+740,Mountain of Echo,Mountain Echo,Country,2008,323,44
+741,Toward the Blues,The Bookends,Indie,1988,354,41
+742,Nocturne of Serenade,Joan Wolf,Indie,2023,318,66
+743,Symphony of Desert,Emma Fire,Country,1974,279,79
+744,Ballad of Oasis,Luna Vega,Pop,1979,185,27
+745,Groove of Desert,Sofia Estrella,R&B,1968,280,67
+746,The Silver Waltz,Taylor Knight,R&B,1970,276,60
+747,Emerald Desert,Milo York,R&B,2009,216,46
+748,Vivid Sky,Carmen Luna,Reggaeton,2020,275,56
+749,Velvet Ocean,Elise Blue,Hip-Hop,1988,235,77
+750,Dusty Melody,The Midnight Echo,Folk,1967,157,62
+751,Along the Mountain,Quinn Grant,Jazz,2022,205,66
+752,Island of Overture,Biel Bright,Reggaeton,1998,221,55
+753,Chasing the Nocturne,Kai North,Indie,1997,331,56
+754,Toward the Anthem,Milo Red,Hip-Hop,2008,226,24
+755,Without the Storm,The Midnight Echo,Rock,2019,209,48
+756,Lighthouse of Symphony,Biel Ash,Hip-Hop,2000,195,38
+757,The Silver Silence,Aria Ash,Country,2018,206,30
+758,The Quiet Night,Arctic Bloom,Indie,2007,254,39
+759,Vivid Bridge,Blake South,Reggaeton,2015,217,50
+760,The Hollow Serenade,River Stone,Country,2019,273,32
+761,The Western Fortress,Luna Vega,Pop,1972,225,85
+762,Fire of Phoenix,The Catalysts,Electronic,2006,321,49
+763,Burning Whisper,Arlet West,Country,2003,323,46
+764,Eastern Fire,River Gray,Country,2006,314,21
+765,The Bright Thunder,Pere Rain,R&B,2001,351,66
+766,The Frozen Memory,Dakota Green,Jazz,1982,297,48
+767,Crystal Star,Sakura Wind,Indie,2008,297,25
+768,The Shattered Tango,Sara Sharp,Electronic,2012,291,12
+769,Echo of Horizon,Rosa Flamenca,Reggaeton,2022,173,13
+770,Deep Desert,Arlet Costa,Rock,1966,187,49
+771,The Iron Whisper,Laia Torres,Pop,1985,310,47
+772,Western Door,Nashville Hearts,Country,1987,314,65
+773,Island of Tempest,Biel Wolf,Country,1972,236,69
+774,Against the Wave,Summer Nights,Pop,1987,282,88
+775,Before the Lighthouse,Morgan Sharp,R&B,1977,325,33
+776,Waltz of Bridge,Alex Sharp,Reggaeton,2003,161,23
+777,The Silver Dawn,Maria Font,Classical,1967,182,53
+778,Under the Overture,Bright Sparks,Pop,1976,332,46
+779,Ocean of Labyrinth,David Bright,R&B,2020,234,55
+780,Dawn of Overture,Clara East,Jazz,1995,338,64
+781,River of Rhapsody,Rosa Torres,R&B,1979,303,48
+782,Before the River,Taylor Cole,Rock,2003,233,83
+783,Chasing the Storm,Diana Lake,Classical,1989,392,25
+784,The Ruby Island,The Glass Orchestra,Classical,1976,413,40
+785,Iron Whisper,The Iron Wolves,Indie,1995,151,72
+786,Wave of Overture,The Midnight Echo,Rock,2002,221,57
+787,Dawn of Labyrinth,Taylor Red,Jazz,2003,287,81
+788,The Midnight Valley,Laia Fire,Country,1972,171,77
+789,The Silent Desert,Kai Vale,Electronic,2018,316,37
+790,Inside the Whisper,Vera Oak,Hip-Hop,1998,159,57
+791,Wind of Compass,Alma Fuerte,Reggaeton,2019,242,62
+792,Dust of Desert,Morgan Cross,Indie,1985,202,30
+793,Whisper of Dawn,Wild Frontier,Country,1976,267,25
+794,The Amber Moon,Marina del Sol,Reggaeton,2013,201,72
+795,After the Rhapsody,Phantom Circuit,Electronic,2013,354,75
+796,Across the Sonata,Skyler Drew,Rock,2007,173,73
+797,Hollow Forest,Blake Green,Country,1968,208,42
+798,Fragile Waltz,Smoky Mountain Band,Country,2020,245,45
+799,Lost Night,Alex Crane,Pop,1993,163,49
+800,Valley of Door,Laia Stone,Jazz,1969,237,49
+801,Dreams of Road,Binary Storm,Electronic,1995,226,70
+802,Silence of Labyrinth,Sage Fox,Indie,1990,157,85
+803,Before the Light,Albert Ash,Pop,2005,312,23
+804,The Swift Sonata,Cleo Fire,Indie,1979,156,65
+805,Chasing the Waltz,Carla White,Rock,1987,229,50
+806,Eastern Whisper,Paula Black,Country,1992,171,60
+807,The Silent Memory,Leo Ash,Hip-Hop,1998,255,45
+808,Across the Labyrinth,Hugo North,Jazz,1985,276,70
+809,The Sudden Silence,Pau Price,Rock,1994,340,63
+810,Island of Compass,Martina Field,Rock,1997,214,77
+811,Door of Symphony,Alina Moon,Pop,1981,170,87
+812,The Cold Memory,Aina Wood,R&B,1982,315,33
+813,Sun of Road,Jade Rivers,Pop,1975,351,37
+814,Along the Paradise,Nova Beat,Hip-Hop,1994,210,68
+815,Sonata of Echo,Smoky Mountain Band,Country,2014,247,32
+816,Against the Heart,Pau Rose,Country,2016,309,60
+817,The Pale Rhapsody,Marcus Flow,R&B,2014,163,25
+818,Endless Oasis,Diana York,Hip-Hop,2002,239,53
+819,Fortress of Dreams,Dark Horizon,Rock,1996,233,61
+820,The Cold Prelude,David Young,Pop,1973,178,73
+821,Obsidian Shadow,Casey Fire,R&B,1986,315,96
+822,The Sudden Storm,Carmen Luna,Reggaeton,2011,242,62
+823,Bold Door,Nora Stone,Electronic,2022,212,66
+824,Shattered River,The Velvet Strings,Classical,1964,317,32
+825,Gentle Desert,Jordan Fire,R&B,1982,310,81
+826,Floating Melody,Golden Frequency,Jazz,2007,244,48
+827,The Ivory Island,Elise South,Jazz,1996,260,57
+828,Light of Dawn,Sam Frost,Rock,2002,335,75
+829,Echo of Dust,Jordan Sun,Classical,1999,392,24
+830,Within the Phoenix,Casey Miles,Country,2007,339,24
+831,Blues of Silence,Reese Long,R&B,1967,274,33
+832,Golden Wind,The Daydreamers,Indie,1978,188,21
+833,The Fragile Island,Blake Stone,Indie,1965,165,78
+834,The Dusty Light,River Stone,Country,2005,258,46
+835,Fortress of Desert,Nora Ash,Country,1971,205,63
+836,The Dusty Whisper,The Glass Orchestra,Classical,2012,343,64
+837,Paradise of Overture,Harmony Fields,Pop,1967,336,41
+838,Across the Nocturne,Urban Shadow,Hip-Hop,2008,288,23
+839,Lullaby of Storm,Phoenix Crane,Rock,1972,186,28
+840,Toward the Mirror,Riley Vidal,Jazz,1997,178,73
+841,The Crystal Twilight,Pere Hayes,Country,1968,305,79
+842,The Sudden Tempest,Parker Cole,Jazz,1998,327,1
+843,Bridge of Light,The Velvet Strings,Classical,1989,260,100
+844,Scarlet Anthem,Alina Moon,Pop,2002,294,50
+845,The Hollow Memory,Pere Young,Pop,1966,355,60
+846,Bright River,Midnight Jazz Club,Jazz,2018,332,54
+847,Dark Island,Luna Wood,Hip-Hop,1986,287,50
+848,The Tender Horizon,The Velvet Strings,Classical,2002,389,6
+849,The Eastern Ballad,The Catalysts,Electronic,2006,191,74
+850,Iron Crown,Lucia South,Rock,1975,249,58
+851,Road of Wind,Morgan Star,Pop,2005,195,62
+852,Sacred Valley,Morgan Wolf,Classical,1985,275,9
+853,The Quiet Thunder,Aria Wind,Rock,2019,216,58
+854,Without the Lullaby,Crystal Method,Electronic,2023,358,49
+855,Dust of Prelude,Oriol Mas,Jazz,1981,345,62
+856,The Sapphire Thunder,Stella Price,Reggaeton,2019,164,55
+857,The Azure Lullaby,El Ritmo,Reggaeton,2015,192,54
+858,Across the Blues,Neon Pulse,Pop,2007,242,75
+859,The Golden Lullaby,Vera Gold,Country,1974,347,66
+860,Overture of Thunder,Stellar Groove,R&B,1970,225,21
+861,Phoenix of Tempest,Vienna Chamber Players,Classical,2003,326,100
+862,The Sacred Valley,Tidal Force,Electronic,2013,353,9
+863,Prelude of Flame,Oriol East,Classical,1963,234,90
+864,Star of Ocean,Nova Rain,Indie,1998,154,70
+865,The Iron Symphony,Avery Grant,Pop,1978,207,59
+866,Frozen Sun,Julia White,Rock,1998,332,41
+867,Flame of Arrow,DJ Nexus,Electronic,2017,259,99
+868,Between the Garden,Smoky Mountain Band,Country,2020,214,54
+869,Across the Oasis,The Glass Orchestra,Classical,1965,382,56
+870,Warm Thunder,Marc Hayes,Electronic,2011,311,4
+871,Castle of Dust,Luna Vega,Pop,1973,213,54
+872,The Ruby Symphony,Luna Gray,Hip-Hop,2000,151,72
+873,Quiet Fortress,Golden Frequency,Jazz,1965,257,59
+874,Around the Groove,Oscar Green,Electronic,1996,212,45
+875,Anthem of Arrow,Golden Frequency,Jazz,1969,301,30
+876,The Dark Serenade,Iris True,Rock,2016,341,53
+877,The Sleepy Ballad,Sakura Wind,Indie,2017,344,31
+878,Thunder of Fire,Alina Moon,Pop,1987,207,32
+879,Tempest of Blues,Blake Kent,Jazz,1998,268,25
+880,Anthem of Rain,Arnau Reed,Country,1988,350,57
+881,The Obsidian Light,Shadow Puppets,Indie,2019,190,43
+882,Across the Compass,Zion Green,R&B,1965,214,91
+883,Horizon of Castle,Laia Torres,Pop,1991,317,63
+884,Under the Oasis,Riley Kent,Rock,1977,236,75
+885,Nocturne of Memory,Satin Voices,R&B,1972,277,51
+886,After the Dreams,Nashville Hearts,Country,2007,199,40
+887,The Frozen Forest,Elise Drew,Pop,2008,268,82
+888,Above the River,Pere Hawk,Rock,2003,342,85
+889,Without the Shadow,Taylor Hill,Pop,1998,350,47
+890,Through the Dreams,Marina del Sol,Reggaeton,1999,161,52
+891,Wave of Forest,Julia Ash,Classical,2019,306,57
+892,Scarlet Lullaby,Jan Grant,Jazz,1968,227,33
+893,Along the Rain,Nova Flynn,Rock,2024,326,39
+894,Rhapsody of Dawn,Clara Vega,Hip-Hop,1989,202,82
+895,Inside the Desert,Arnau Oak,Electronic,2011,312,69
+896,The Neon Memory,Jordan Cross,R&B,1988,238,30
+897,The Iron Tempest,Velvet Dawn,Pop,1972,345,52
+898,Around the Whisper,The Prairie Dogs,Country,1993,263,25
+899,Through the Desert,Golden Frequency,Jazz,1984,177,10
+900,Road of Rain,Aina Brook,Country,1986,161,24
+901,The Burning Wind,Lluis Hill,Electronic,1995,317,30
+902,Toward the Silence,Blue Note Trio,Jazz,1997,330,57
+903,Dreams of Lighthouse,Sam East,Hip-Hop,2013,209,74
+904,The Emerald Echo,Rowan Hart,R&B,2006,191,53
+905,Scarlet Sun,Dakota Ash,Reggaeton,2020,247,69
+906,Vivid Sonata,Metro Beats,Hip-Hop,2018,238,81
+907,Azure Lighthouse,Felix Blue,Electronic,2022,304,52
+908,Within the Mirror,Metro Beats,Hip-Hop,1993,260,10
+909,Desert of Night,Leo Frost,Rock,1986,272,44
+910,Sacred Sonata,Sage Long,Reggaeton,2008,170,75
+911,Midnight Dreams,Alex Rain,R&B,1974,352,26
+912,Cold Anthem,Avery Wolf,Jazz,1986,258,36
+913,Endless River,Arlet True,Electronic,2002,375,18
+914,The Velvet Lullaby,Arlet Wood,Reggaeton,2016,267,89
+915,Bright Castle,Autumn Leaves Quartet,Jazz,1969,182,50
+916,Light of Prelude,Diamond Dust,Pop,2017,154,32
+917,Beneath the Wind,Golden Frequency,Jazz,2014,244,56
+918,Across the Melody,Oriol Serra,R&B,2012,302,63
+919,Horizon of Dust,The Glass Orchestra,Classical,1994,211,23
+920,Scarlet Oasis,Marc Miles,Indie,1990,187,50
+921,Bridge of Mountain,Luna Day,Jazz,1971,352,67
+922,Beneath the Serenade,Quinn Wade,Rock,1965,250,49
+923,The Sleepy Valley,Velvet Dawn,Pop,1991,240,44
+924,Dreams of Mirror,Elena Wild,Pop,1977,167,73
+925,The Azure Wave,Luna Vega,Indie,2008,233,79
+926,Symphony of River,The Wanderers,Rock,1985,259,76
+927,Ruby Tempest,Rayo Urbano,Reggaeton,2013,230,23
+928,The Pale Island,Joan Flynn,Hip-Hop,2005,275,56
+929,Dawn of Dawn,Parker Snow,Hip-Hop,1997,200,53
+930,Between the Symphony,Arctic Bloom,Indie,2007,247,85
+931,Through the Island,Elena Snow,Rock,2011,192,67
+932,Vivid Groove,Autumn Leaves Quartet,Jazz,1979,307,92
+933,Lost Serenade,Martina Moon,Pop,1966,178,72
+934,Toward the Tango,Vera Young,Pop,2008,344,61
+935,Crown of Storm,Laia Wolf,Reggaeton,2020,220,62
+936,Inside the Dust,Rowan Fire,Hip-Hop,1985,226,91
+937,Deep Lullaby,Sunset Boulevard,Indie,2005,227,63
+938,Blues of Blues,Marta Sage,R&B,1999,287,37
+939,Beyond the Bridge,Atlas Vega,Reggaeton,2001,213,61
+940,Quiet Night,Alex Wild,Electronic,2011,267,51
+941,Paradise of Castle,El Ritmo,Reggaeton,2004,165,42
+942,Without the Wave,Arctic Bloom,Folk,2016,200,59
+943,Within the Crown,Elise East,Rock,1980,279,86
+944,Sleepy Ballad,Static Noise,Rock,1988,281,48
+945,Hidden Sky,Alex South,Electronic,2016,381,67
+946,Lost Echo,Jordi Font,Reggaeton,2014,187,44
+947,Between the Memory,The Iron Wolves,Rock,1991,254,43
+948,Endless Lullaby,Mountain Echo,Country,2007,258,47
+949,Nocturne of Blues,Vera Wind,Pop,1972,207,51
+950,Symphony of Echo,Lucia Sage,Rock,2011,260,65
+951,The Eternal River,Max Sage,Reggaeton,2020,235,76
+952,The Deep Sun,Rhythm & Soul,R&B,2016,356,46
+953,The Broken Groove,Echo Valley,Rock,2015,279,31
+954,Midnight Wind,Marc Hawk,Classical,1992,338,44
+955,Between the Prelude,Carla Flynn,Reggaeton,2002,226,51
+956,The Sapphire Echo,Emma Black,Indie,1977,171,65
+957,The Fragile Heart,Riley Ash,Country,2020,192,60
+958,Sonata of Overture,Sunset Boulevard,Indie,2008,294,14
+959,Prelude of Thunder,Atlas Silver,Country,2020,265,42
+960,Rising Mountain,Iris Reed,Pop,1965,193,41
+961,Southern Mirror,MC Blaze,Hip-Hop,1997,205,64
+962,Phoenix of Prelude,Cleo Rose,Rock,1971,234,33
+963,Under the River,Casey Grant,R&B,2002,236,76
+964,The Midnight Journey,Lluis Mas,Pop,1987,157,43
+965,Fierce Flame,Kai Font,Indie,2010,199,54
+966,Through the Harbor,Rosa Lane,Classical,1986,409,54
+967,Beneath the Wave,Nova Cross,Indie,1985,218,63
+968,Beyond the Tempest,Aina Wade,R&B,2006,258,36
+969,Without the Castle,Clara Lane,Reggaeton,2000,192,56
+970,Bitter Ocean,Luna Wind,R&B,2002,287,86
+971,The Fading Twilight,Crystal Method,Electronic,1998,377,47
+972,Wild Melody,Carla Puig,Electronic,2007,217,44
+973,Emerald Dreams,Pacific Drift,Electronic,1997,191,90
+974,The Deep Waltz,MC Blaze,Reggaeton,2013,237,57
+975,Across the Sun,Stellar Groove,R&B,1984,319,33
+976,The Swift Heart,Nova Nash,Rock,1980,303,43
+977,Wind of Heart,Diana Nash,Classical,1967,205,77
+978,Under the Ocean,Fuego Latino,Reggaeton,2000,261,16
+979,Flame of Paradise,Quinn Black,Jazz,1978,198,68
+980,Silent Twilight,Phantom Circuit,Electronic,2020,194,49
+981,Wave of Memory,Stella Sharp,Electronic,2016,388,52
+982,The Vivid Castle,Tropical Wave,Reggaeton,2021,215,95
+983,The Fragile Silence,Joan Sun,Reggaeton,2010,274,41
+984,Scarlet Tango,Aina Fire,R&B,1965,189,46
+985,Around the Night,Martina Knight,Rock,2002,360,58
+986,Endless Symphony,Quinn Knight,Electronic,2012,294,54
+987,Beneath the Garden,Morgan Field,Reggaeton,2010,265,52
+988,Blues of Night,Fresh Coast,Hip-Hop,2016,155,100
+989,The Eastern Overture,Vienna Chamber Players,Classical,1974,316,58
+990,Fierce Arrow,Nashville Hearts,Folk,1988,260,84
+991,The Eternal Tango,Bright Sparks,Pop,1977,181,40
+992,Velvet Castle,Luna Lake,Indie,1983,217,47
+993,The Ancient Dawn,The Velvet Strings,Classical,1975,247,41
+994,The Bold Nocturne,Dark Horizon,Rock,2010,189,45
+995,Forest of Phoenix,Sofia Estrella,Indie,1983,205,83
+996,Fading Melody,Jan Vega,Country,2009,186,44
+997,Around the Desert,Hugo Gold,Pop,1965,251,71
+998,After the Garden,Deep Current,Electronic,1999,199,86
+999,Along the Echo,The Velvet Strings,Jazz,1970,292,61
+1000,Neon Horizons,DJ Nexus,Electronic,2023,245,72
